@@ -15,7 +15,7 @@ class WebViewScreen extends StatefulWidget {
 
 
 
-String url = 'https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost&client_id=JOTXQXFAHOSGC3CGXJMV71GTAWF3EFJR%40AMER.OAUTHAP';
+String url = 'https://auth.tdameritrade.com/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost&client_id=JOTXCGXJMV71GTAWF3EFJR%40AMER.OAUTHAP';
 
 
 
